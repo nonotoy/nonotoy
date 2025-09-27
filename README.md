@@ -10,4 +10,4 @@
 
 ## 📫 Fine me on:
  - [LinkedIn](https://www.linkedin.com/in/yoshifumi-hanada/)
- - [Profile] (nonotoy.github.io/)
+ - [Profile](nonotoy.github.io/)
