@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-## 🔭 I’m currently working on:
- - morphological analysis of polysynthetic languages (Ainu, Inukutitut, Aleut...)
- - 
+## 🔭 interest:
+ - sociolinguistics / sociology of language
+ - linguistics
+ - natural language processing
 
-## 🌱 I’m currently learning:
- - machine learning and computational linguistics at JAIST
- - 
-
-## 📫 Fine me on:
+## 📫 find me on:
  - [LinkedIn](https://www.linkedin.com/in/yoshifumi-hanada/)
  - [Profile](https://nonotoy.github.io)
